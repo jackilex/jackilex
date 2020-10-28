@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning Redux, React Native, Next Js
+- 🌱 I’m currently learning Redux, React Native, Next Js
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -31,3 +31,5 @@ i am a certified Full-stack Web Developer with a background in the US Military a
 
 [Portfolio](https://jackilex.github.io/portfolio_Alex/#/about)
 [Linkedin](https://www.linkedin.com/in/alex-saint-victor)
+
+🌱 I’m currently learning Redux, React Native, Next Js
