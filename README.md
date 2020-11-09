@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-My name is Alex Saint Victor ,
 i am a certified Full-stack Web Developer with a background in the US Military and Construction Management. I have a passion for creating, programming and designing Web applications.
 
 ### SKILLS & TECHNOLOGIES
