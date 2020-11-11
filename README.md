@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am a certified Full-stack web developer from UT Austin with an interest in both front-end and back-end development. I have background construction management and i have served in the US Marine Corps. I have a passion for creating, programming and designing web applications.
+I am a certified Full-stack web developer from UT Austin with an interest in both front-end and back-end development. I have a background construction management and i served in the US Marine Corps. I have a passion for creating, programming and designing web applications..
 
 ### SKILLS & TECHNOLOGIES
 #### Full-Stack Web Development languages:
