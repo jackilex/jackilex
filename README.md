@@ -53,7 +53,7 @@ In this stage i will focus on creating components first, screens second, navigat
 
 ### STAGE 3: Back-end implementation and testing - 0% Completion
 #### Technology - Node.js, Express, Jest
-once Stage 1 and 2 are at 90% i will move the back-end. 
+once Stage 1 and 2 are at 80% i will move the back-end. 
 1) Design Database (Data Modeling)
 2) Use Test driven development to set up my HTTP request and also using Postman
 
