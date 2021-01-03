@@ -38,7 +38,6 @@ I am a certified Full-stack web developer from UT Austin with an interest in bot
 
 🌱 I’m currently wokring on app and website which will focus to aid enforcing communications for property managers. (FYI: this repo is set to private, if you are a recruiter that would like to see my progress; please contact me for access)
 
-Features: Postings, Map, Calendar, Inquires, Reminders etc.
 
 This project will require both a website and an app
 
