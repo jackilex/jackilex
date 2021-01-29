@@ -42,22 +42,22 @@ I am a certified Full-stack web developer from UT Austin with an interest in bot
 This project will require both a website and an app
 
 ### APP (IOS + Android)
-### STAGE 1: Design - 70% Completion
+### STAGE 1: Design -
 #### Technology - Figma
 During this stage i will focus on implementing the visual aspect of the app
 
-### STAGE 2: Front-end - 40% Completion
+### STAGE 2: Front-end 
 #### Technology - React Native (Expo framework)
 In this stage i will focus on creating components first, screens second, navigation (tab and stack navigation) and lastly the forms
 
-### STAGE 3: Back-end implementation and testing - 0% Completion
-#### Technology - Node.js, Express, Jest
+### STAGE 3: Back-end implementation and testing 
+#### Technology - Node.js, Express, Jest, (Docker + Kubernetes)
 once Stage 1 and 2 are at 80% i will move the back-end. 
 1) Design Database (Data Modeling)
 2) Use Test driven development to set up my HTTP request and also using Postman
 
 ### Website (React.js)
-### STAGE 4: Website Front-end implementation and SEO
+### STAGE 4: Website Front-end implementation and SEO (Docker + Kubernetes)
 #### Technology - React.js - 0% Completion
 On this stage i will focus on the website design creating all components and pages for the website. At this stage the backend will have already been complete
 
