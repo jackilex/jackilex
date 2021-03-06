@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am a certified Full-stack web developer from UT Austin with an interest in both front-end and back-end development. I have a background in construction management and i served in the US Marine Corps. I have a passion for creating, programming and designing web applications..
+Junior Web Developer able to build full stack web application from the ground up – information and technology gathering, planning, design, development, database creation testing and deployment. Passionate about creating web application to solve business challenges and streamline redundant processes.
 
 ### SKILLS & TECHNOLOGIES
 #### Full-Stack Web Development languages:
