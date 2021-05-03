@@ -69,5 +69,5 @@ The app will focus on a Micro-service architecture
 
 Stage 1
 
-![](src/Frame1.jpg.jpg)
+![](src/Frame1.jpg)
 
