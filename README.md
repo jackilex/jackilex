@@ -63,6 +63,10 @@ On this stage i will focus on the website design creating all components and pag
 
 ### STAGE 5: Testing
 
+### Design and Architecture
+
+### Design (preliminry design, current rect native stage)
+![](src/design.jpg)
 
 ### Architecture
 The app will focus on a Micro-service architecture
