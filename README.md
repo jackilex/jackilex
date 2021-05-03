@@ -67,5 +67,6 @@ On this stage i will focus on the website design creating all components and pag
 ### Architecture
 The app will focus on a Micro-service architecture
 
-
+Stage 1
+![](PMP - Data flow diagram - Frame 1.jpg)
 
