@@ -67,7 +67,16 @@ On this stage i will focus on the website design creating all components and pag
 ### Architecture
 The app will focus on a Micro-service architecture
 
-Stage 1
+### Stage 1
 
 ![](src/Frame1.jpg)
+
+### Stage 2
+
+![](src/Frame2.jpg)
+
+### Stage 3
+
+![](src/Frame3.jpg)
+
 
