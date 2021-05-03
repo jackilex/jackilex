@@ -31,12 +31,12 @@ Junior Web Developer able to build full stack web application from the ground up
 [Portfolio](https://jackilex.github.io/portfolio_Alex/#/about)
 [Linkedin](https://www.linkedin.com/in/alex-saint-victor)
 
-🌱 I’m currently learning Next.js to solve SEO issue with React.
-- React Native with Expo framework.
-- Redux
-- Serverless Web Application (Separating front-end and back-end) with Netlify Dev, Netlify Lambda
+🌱 I’m currently learning .
+- GraphQL
+- Typescript
+- Micro-service design
 
-🌱 I’m currently wokring on app and website which will focus to aid enforcing communications for property managers. (FYI: this repo is set to private, if you are a recruiter that would like to see my progress; please contact me for access)
+🌱 I’m currently wokring on app and website which will focus to aid enforcing communications for property managers and their clients. (FYI: this repo is set to private, if you are a recruiter that would like to see my progress; please contact me for access)
 
 
 This project will require both a website and an app
@@ -51,12 +51,12 @@ During this stage i will focus on implementing the visual aspect of the app
 In this stage i will focus on creating components first, screens second, navigation (tab and stack navigation) and lastly the forms
 
 ### STAGE 3: Back-end implementation and testing 
-#### Technology - Node.js, Express, Jest, (Docker + Kubernetes)
+#### Technology - Node.js,GRaphQL + Express, Jest
 1) Design Database (Data Modeling)
 2) Use Test driven development to set up my HTTP request and also using Postman
 
 ### Website (React.js)
-### STAGE 4: Website Front-end implementation and SEO (Docker + Kubernetes)
+### STAGE 4: Website Front-end implementation and SEO
 #### Technology - React.js
 On this stage i will focus on the website design creating all components and pages for the website. At this stage the backend will have already been complete
 
