@@ -64,3 +64,8 @@ On this stage i will focus on the website design creating all components and pag
 ### STAGE 5: Testing
 
 
+### Architecture
+The app will focus on a Micro-service architecture
+
+
+
