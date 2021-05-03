@@ -77,10 +77,10 @@ The app will focus on a Micro-service architecture
 
 ### Stage 2
 
-![](src/Frame2.jpg)
+![](src/Frame1.2.jpg)
 
 ### Stage 3
 
-![](src/Frame3.jpg)
+![](src/Frame1.3.jpg)
 
 
