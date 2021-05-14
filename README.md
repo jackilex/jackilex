@@ -75,12 +75,7 @@ The app will focus on a Micro-service architecture
 
 ![](src/Frame1.jpg)
 
-### Stage 2
 
-![](src/Frame1.2.jpg)
 
-### Stage 3
-
-![](src/Frame1.3.jpg)
 
 
