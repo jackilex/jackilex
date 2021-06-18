@@ -37,7 +37,7 @@ Junior Web Developer able to build full stack web application from the ground up
 
 
 #### A communication service for Prorperty managers
-- I am also building a communication service that will facilitate communication fro property managers and their residents
+- I am also building a communication service that will facilitate communication for property managers and their residents
 <!-- 🌱 I’m currently learning .
 - GraphQL
 - Typescript
