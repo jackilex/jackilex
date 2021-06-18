@@ -31,7 +31,14 @@ Junior Web Developer able to build full stack web application from the ground up
 [Portfolio](https://jackilex.github.io/portfolio_Alex/#/about)
 [Linkedin](https://www.linkedin.com/in/alex-saint-victor)
 
-🌱 I’m currently learning .
+### WHAT I AM WORKING:
+#### MICRO SERVICE BACKEND WITH GRAPHQL
+- I am currently contracted to help build a micro-service backend for a start up
+
+
+#### A communication service for Prorperty managers
+- I am also building a communication service that will facilitate communication fro property managers and their residents
+<!-- 🌱 I’m currently learning .
 - GraphQL
 - Typescript
 - Micro-service design
@@ -75,7 +82,7 @@ The app will focus on a Micro-service architecture
 
 ![](src/Frame1.jpg)
 
-
+ -->
 
 
 
