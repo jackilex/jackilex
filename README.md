@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ### About Me
 Junior Web Developer able to build full stack web application from the ground up – information and technology gathering, planning, design, development, database creation testing and deployment. Passionate about creating web application to solve business challenges and streamline redundant processes.
 
+## On Going project - (check it out)
+[Property management App](https://github.com/jackilex/Property_managment_communication_App)
+
 ### SKILLS & TECHNOLOGIES
 #### Full-Stack Web Development languages:
 - Front End Languages: HTML5, CSS, JavaScript ES6+
