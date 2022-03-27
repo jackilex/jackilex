@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-Junior Web Developer able to build full stack web application from the ground up – information and technology gathering, planning, design, development, database creation testing and deployment. Passionate about creating web application to solve business challenges and streamline redundant processes.
+ am a Full Stack Software Engineer and a US Marine Corps Veteran with a background in Construction Management. I have knowledge and skills in both Front End and Back End web development. I am Passionate about creating web applications to solve business challenges and streamline redundant processes.
+I can handle building a Full Stack project with information and technology gathering, planning, design, development, database creation testing and deployment. My programming languages are Javascript, Typescript, Dart and Python
 
-### 🔭  On Going project  🔭 - (check it out) 🔭 
-[Property management App](https://github.com/jackilex/Property_managment_communication_App)
 
-### SKILLS & TECHNOLOGIES
+<!-- ### 🔭  On Going project  🔭 - (check it out) 🔭  -->
+<!-- [Property management App](https://github.com/jackilex/Property_managment_communication_App) -->
+
+<!-- ### SKILLS & TECHNOLOGIES
 #### Full-Stack Web Development languages:
 - Front End Languages: HTML5, CSS, JavaScript ES6+
 - Frameworks: Bootstrap, jQuery, ReactJS.
@@ -87,5 +89,5 @@ The app will focus on a Micro-service architecture
 
  -->
 
-
+ -->
 
