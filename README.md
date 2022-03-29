@@ -16,8 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
- am a Full Stack Software Engineer and a US Marine Corps Veteran with a background in Construction Management. I have knowledge and skills in both Front End and Back End web development. I am Passionate about creating web applications to solve business challenges and streamline redundant processes.
-I can handle building a Full Stack project with information and technology gathering, planning, design, development, database creation testing and deployment. My programming languages are Javascript, Typescript, Dart and Python
+I am a Full Stack Software Engineer and a US Marine Corps Veteran with a background in
+Construction Management. I have knowledge and skills in both Front End and Back End
+web development. I am Passionate about creating web applications to solve business
+challenges and streamline redundant processes.
+I can handle building a Full Stack project with information and technology gathering,
+planning, design, development, database creation testing and deployment. My
+programming languages are Javascript, Typescript, Dart and Pythonn
 
 
 <!-- ### 🔭  On Going project  🔭 - (check it out) 🔭  -->
