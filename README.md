@@ -22,7 +22,7 @@ web development. I am Passionate about creating web applications to solve busine
 challenges and streamline redundant processes.
 I can handle building a Full Stack project with information and technology gathering,
 planning, design, development, database creation testing and deployment. My
-programming languages are Javascript, Typescript, Dart and Pythonn
+programming languages are Javascript, Typescript, Dart and Python
 
 
 <!-- ### 🔭  On Going project  🔭 - (check it out) 🔭  -->
